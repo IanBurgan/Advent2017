@@ -21,5 +21,5 @@ for i in contents:
     if len(set(n)) == len(n):
         part_two += 1
 
-print(part_one)
-print(part_two)
+print("Part One:", part_one)
+print("Part Two:", part_two)

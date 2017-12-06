@@ -20,5 +20,6 @@ for row in contents:
             if j != i:
                 if row_int[i] % row_int[j] == 0:
                     part_two += int(row_int[i] / row_int[j])
-print(part_one)
-print(part_two)
+
+print("Part One:", part_one)
+print("Part Two:", part_two)

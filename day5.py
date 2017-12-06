@@ -26,4 +26,4 @@ while place < len(contents) and place > -1:
     else:
         contents[old] += 1
 
-print(steps)
+print("Solution:", steps)

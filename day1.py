@@ -20,6 +20,5 @@ for i in range(len(contents)):
     if contents[i] == contents[int(i + len(contents) / 2) % len(contents)]:
         part_two += int(contents[i])
 
-
-print(part_one)
-print(part_two)
+print("Part One:", part_one)
+print("Part Two:", part_two)
