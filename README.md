@@ -24,3 +24,4 @@ star. Unfortunately, I wasn't able to _compete_ on days 1, 2, and 3.
 |3      |11335  |8048   |
 |4      |170    |313    |
 |5      |906    |774    |
+|6      |513    |452    |
